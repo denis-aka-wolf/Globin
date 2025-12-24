@@ -332,7 +332,11 @@ C2 - x100
 - [Объяснение грамматического рода](./gender_explanation.md)
 - [Подробное описание букв и произношения](./letters.md)
 - [Словарь Globino](./dictionary.md)
-- [Числительные в глобино](./numbers.md)
+- [Основные числительные](./numbers_cardinal.md)
+- [Порядковые числительные](./numbers_ordinal.md)
+- [Дроби](./numbers_fractions.md)
+- [Кратные числительные](./numbers_multiples.md)
+- [Собирательные числительные](./numbers_collective.md)
 
 ## Уровни знаний
 
