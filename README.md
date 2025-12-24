@@ -337,6 +337,8 @@ C2 - x100
 - [Дроби](./numbers_fractions.md)
 - [Кратные числительные](./numbers_multiples.md)
 - [Собирательные числительные](./numbers_collective.md)
+- [Существительные числительные](./numbers_nouns.md)
+- [Наречия числительные](./numbers_adverbs.md)
 
 ## Уровни знаний
 
