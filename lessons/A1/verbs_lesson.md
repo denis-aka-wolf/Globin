@@ -1,5 +1,16 @@
 # Урок 6: Глаголы в Globino
 
+## Предыдущий урок
+- [Урок 5: Наречия в Globino](./adverbs_lesson.md)
+
+## Следующий урок
+- [Урок 7: Местоимения в Globino](./pronouns_lesson.md)
+
+## Связанные темы
+- [Урок 5: Наречия в Globino](./adverbs_lesson.md)
+- [Урок 10: Времена в Globino](./tenses_lesson.md)
+- [Урок 12: Приставки в Globino](./prefixes_lesson.md)
+
 ## Цели урока
 
 - Понять, что такое глаголы в Globino

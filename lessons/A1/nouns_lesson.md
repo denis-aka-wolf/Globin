@@ -1,5 +1,16 @@
 # Урок 2: Существительные в Globino
 
+## Предыдущий урок
+- [Урок 1: Фонетика Globino](./phonetics_lesson.md)
+
+## Следующий урок
+- [Урок 3: Дополнения в Globino](./complements_lesson.md)
+
+## Связанные темы
+- [Урок 8: Множественное число в Globino](./plurals_lesson.md)
+- [Урок 4: Прилагательные в Globino](./adjectives_lesson.md)
+- [Урок 11: Падежи в Globino](./cases_lesson.md)
+
 ## Цели урока
 
 - Понять, что такое существительные в Globino

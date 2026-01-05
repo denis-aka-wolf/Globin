@@ -1,5 +1,16 @@
 # Урок 11: Падежи в Globino
 
+## Предыдущий урок
+- [Урок 10: Времена в Globino](./tenses_lesson.md)
+
+## Следующий урок
+- [Урок 12: Приставки в Globino](./prefixes_lesson.md)
+
+## Связанные темы
+- [Урок 3: Дополнения в Globino](./complements_lesson.md)
+- [Урок 7: Местоимения в Globino](./pronouns_lesson.md)
+- [Урок 2: Существительные в Globino](./nouns_lesson.md)
+
 ## Цели урока
 
 - Понять систему падежей в Globino

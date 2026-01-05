@@ -1,5 +1,16 @@
 # Урок 5: Наречия в Globino
 
+## Предыдущий урок
+- [Урок 4: Прилагательные в Globino](./adjectives_lesson.md)
+
+## Следующий урок
+- [Урок 6: Глаголы в Globino](./verbs_lesson.md)
+
+## Связанные темы
+- [Урок 4: Прилагательные в Globino](./adjectives_lesson.md)
+- [Урок 6: Глаголы в Globino](./verbs_lesson.md)
+- [Урок 14: Числительные в Globino](./numericals_lesson.md)
+
 ## Цели урока
 
 - Понять, что такое наречия в Globino

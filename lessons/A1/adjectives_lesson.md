@@ -1,5 +1,16 @@
 # Урок 4: Прилагательные в Globino
 
+## Предыдущий урок
+- [Урок 3: Дополнения в Globino](./complements_lesson.md)
+
+## Следующий урок
+- [Урок 5: Наречия в Globino](./adverbs_lesson.md)
+
+## Связанные темы
+- [Урок 2: Существительные в Globino](./nouns_lesson.md)
+- [Урок 5: Наречия в Globino](./adverbs_lesson.md)
+- [Урок 11: Падежи в Globino](./cases_lesson.md)
+
 ## Цели урока
 
 - Понять, что такое прилагательные в Globino

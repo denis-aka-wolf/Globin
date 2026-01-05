@@ -1,5 +1,16 @@
 # Урок 8: Множественное число в Globino
 
+## Предыдущий урок
+- [Урок 7: Местоимения в Globino](./pronouns_lesson.md)
+
+## Следующий урок
+- [Урок 9: Частицы в Globino](./particles_lesson.md)
+
+## Связанные темы
+- [Урок 2: Существительные в Globino](./nouns_lesson.md)
+- [Урок 4: Прилагательные в Globino](./adjectives_lesson.md)
+- [Урок 11: Падежи в Globino](./cases_lesson.md)
+
 ## Цели урока
 
 - Понять, как образуется множественное число в Globino

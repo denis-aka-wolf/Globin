@@ -348,3 +348,21 @@ C2 - x100
 - [Уровень B2 (Выше среднего — "Прогресс")](./lessons/B2/lesson_plan.md)
 - [Уровень C1 (Продвинутый — "Эффективность")](./lessons/C1/lesson_plan.md)
 - [Уровень C2 (Владение в совершенстве — "Мастерство")](./lessons/C2/lesson_plan.md)
+
+## Уроки A1 уровня
+
+- [Урок 1: Фонетика Globino](./lessons/A1/phonetics_lesson.md)
+- [Урок 2: Существительные в Globino](./lessons/A1/nouns_lesson.md)
+- [Урок 3: Дополнения в Globino](./lessons/A1/complements_lesson.md)
+- [Урок 4: Прилагательные в Globino](./lessons/A1/adjectives_lesson.md)
+- [Урок 5: Наречия в Globino](./lessons/A1/adverbs_lesson.md)
+- [Урок 6: Глаголы в Globino](./lessons/A1/verbs_lesson.md)
+- [Урок 7: Местоимения в Globino](./lessons/A1/pronouns_lesson.md)
+- [Урок 8: Множественное число в Globino](./lessons/A1/plurals_lesson.md)
+- [Урок 9: Частицы в Globino](./lessons/A1/particles_lesson.md)
+- [Урок 10: Времена в Globino](./lessons/A1/tenses_lesson.md)
+- [Урок 11: Падежи в Globino](./lessons/A1/cases_lesson.md)
+- [Урок 12: Приставки в Globino](./lessons/A1/prefixes_lesson.md)
+- [Урок 13: Суффиксы в Globino](./lessons/A1/suffixes_lesson.md)
+- [Урок 14: Числительные в Globino](./lessons/A1/numericals_lesson.md)
+- [Урок 15: Закрепление материала по всем урокам](./lessons/A1/review_lesson.md)

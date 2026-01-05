@@ -1,5 +1,16 @@
 # Урок 12: Приставки в Globino
 
+## Предыдущий урок
+- [Урок 11: Падежи в Globino](./cases_lesson.md)
+
+## Следующий урок
+- [Урок 13: Суффиксы в Globino](./suffixes_lesson.md)
+
+## Связанные темы
+- [Урок 14: Числительные в Globino](./numericals_lesson.md)
+- [Урок 6: Глаголы в Globino](./verbs_lesson.md)
+- [Урок 9: Частицы в Globino](./particles_lesson.md)
+
 ## Цели урока
 - Понять, что такое приставки в Globino
 - Научиться использовать основные приставки

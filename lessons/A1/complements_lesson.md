@@ -1,5 +1,16 @@
 # Урок 3: Дополнения в Globino
 
+## Предыдущий урок
+- [Урок 2: Существительные в Globino](./nouns_lesson.md)
+
+## Следующий урок
+- [Урок 4: Прилагательные в Globino](./adjectives_lesson.md)
+
+## Связанные темы
+- [Урок 11: Падежи в Globino](./cases_lesson.md)
+- [Урок 2: Существительные в Globino](./nouns_lesson.md)
+- [Урок 6: Глаголы в Globino](./verbs_lesson.md)
+
 ## Цели урока
 
 - Понять, что такое дополнения в языке Globino

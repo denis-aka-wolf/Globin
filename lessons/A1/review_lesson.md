@@ -1,5 +1,24 @@
 # Урок 16: Закрепление материала по всем урокам Globino
 
+## Предыдущий урок
+- [Урок 15: Числительные в Globino](./numericals_lesson.md)
+
+## Связанные темы (все предыдущие уроки)
+- [Урок 1: Фонетика Globino](./phonetics_lesson.md)
+- [Урок 2: Существительные в Globino](./nouns_lesson.md)
+- [Урок 3: Дополнения в Globino](./complements_lesson.md)
+- [Урок 4: Прилагательные в Globino](./adjectives_lesson.md)
+- [Урок 5: Наречия в Globino](./adverbs_lesson.md)
+- [Урок 6: Глаголы в Globino](./verbs_lesson.md)
+- [Урок 7: Местоимения в Globino](./pronouns_lesson.md)
+- [Урок 8: Множественное число в Globino](./plurals_lesson.md)
+- [Урок 9: Частицы в Globino](./particles_lesson.md)
+- [Урок 10: Времена в Globino](./tenses_lesson.md)
+- [Урок 11: Падежи в Globino](./cases_lesson.md)
+- [Урок 12: Приставки в Globino](./prefixes_lesson.md)
+- [Урок 13: Суффиксы в Globino](./suffixes_lesson.md)
+- [Урок 15: Числительные в Globino](./numericals_lesson.md)
+
 ## Цели урока
 - Обобщить и закрепить знания по всем аспектам языка Globino
 - Практиковать комплексное использование изученных грамматических форм
