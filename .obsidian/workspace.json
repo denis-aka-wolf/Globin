@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "3eadc50f87cb7b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e488827ece436f79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f440b3cf6db000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dictionary/dictionary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dictionary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "018fbfcccaf71294",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ffdd56894b6d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e173bcd0114cf019",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6fa3d1cbe0c12fef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4a99077e9b9c2cd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84e94e39b267f159",
+    "type": "split",
+    "children": [
+      {
+        "id": "57a538f49c7495a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2987abd0a3dd6df0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dictionary/dictionary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для dictionary"
+            }
+          },
+          {
+            "id": "4b98b8167c9964c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dictionary/dictionary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из dictionary"
+            }
+          },
+          {
+            "id": "76697d1ae6e7e1e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "db0fc745518403a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "ae2c83231da461db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dictionary/dictionary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура dictionary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "e7f440b3cf6db000",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "dictionary/dictionary.md",
+    "README.md",
+    "letters/letters.md",
+    "letters",
+    "gender/gender_explanation.md",
+    "gender",
+    "dictionary",
+    "numbers/numbers_adverbs.md",
+    "numbers",
+    "numbers/numbers_cardinal.md",
+    "numbers/numbers_collective.md",
+    "numbers/numbers_fractions.md",
+    "numbers/numbers_multiples.md",
+    "numbers/numbers_nouns.md",
+    "numbers/numbers_ordinal.md",
+    "lessons/A1/adjectives_lesson.md"
+  ]
+}
